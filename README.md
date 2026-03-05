@@ -6,7 +6,7 @@
 1. A Modernized board game powered by Qt6 and C++
 2. 2-player gameplay
 3. Custom player icons (not limited to 'X' and 'O')
-4. Win's and Tie's visuals
+4. Wins and Ties visuals
 
 # SETUP
 ## Before You Start
@@ -17,13 +17,15 @@
 5. Bash
 
 ## Installation
-1. Clone the repo -- https://github.com/marcdatboi/Qt-Tic-Tac-Toe-Game.git
-
+1. Clone the repo:
+   ```
+   git clone https://github.com/marcdatboi/Qt-Tic-Tac-Toe-Game.git
+   cd Qt-Tic-Tac-Toe-Game
+   ```
 2. Initialize CMake (if you need to):
-    * Make a build folder -- cmake -S . -B build
-    * Set "CMAKE_PREFIX_PATH" -- path/to/your/qt/folder/bin
-    * Find the Qt6 package -- "Qt6 COMPONENTS REQUIRED Gui Core Widgets"
-    * Link all necessary libraries -- tictactoe PRIVATE Qt6::Gui Qt6::Core Qt6::Widgets
+    * Make a build folder -- ```cmake -S . -B build -DCMAKE_PREFIX_PATH="path/to/your/qt/bin"```
+    * Find the Qt6 package -- ```Qt6 COMPONENTS REQUIRED Gui Core Widgets```
+    * Link all necessary libraries -- ```yourProjectName PRIVATE Qt6::Gui Qt6::Core Qt6::Widgets```
 
 # NOTES
 1. This project was developed using CLion!
