@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/include -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -g -o CMakeFiles\\tictactoe.dir\\tictactoe_autogen\\mocs_compilation.cpp.obj -c C:\\DevFolder\\C++\\projects\\qt_projects\\Qt-Tic-Tac-Toe-Game\\build\\tictactoe_autogen\\mocs_compilation.cpp",
+  "file": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/mocs_compilation.cpp",
+  "output": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe.dir/tictactoe_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/include -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -g -o CMakeFiles\\tictactoe.dir\\src\\main.cpp.obj -c C:\\DevFolder\\C++\\projects\\qt_projects\\Qt-Tic-Tac-Toe-Game\\src\\main.cpp",
+  "file": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/src/main.cpp",
+  "output": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/include -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -g -o CMakeFiles\\tictactoe.dir\\src\\MainWindow.cpp.obj -c C:\\DevFolder\\C++\\projects\\qt_projects\\Qt-Tic-Tac-Toe-Game\\src\\MainWindow.cpp",
+  "file": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/src/MainWindow.cpp",
+  "output": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe.dir/src/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/include -IC:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -g -o CMakeFiles\\tictactoe.dir\\src\\Board.cpp.obj -c C:\\DevFolder\\C++\\projects\\qt_projects\\Qt-Tic-Tac-Toe-Game\\src\\Board.cpp",
+  "file": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/src/Board.cpp",
+  "output": "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe.dir/src/Board.cpp.obj"
+}
+]

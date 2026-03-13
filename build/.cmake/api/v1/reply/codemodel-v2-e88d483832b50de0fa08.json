@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tictactoe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tictactoe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tictactoe-Debug-68bd3185e61e5d8be635.json",
+					"name" : "tictactoe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tictactoe_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tictactoe_autogen-Debug-f81762290d3e344a0991.json",
+					"name" : "tictactoe_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tictactoe_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tictactoe_autogen_timestamp_deps-Debug-6d197123f687d95d6e5f.json",
+					"name" : "tictactoe_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build",
+		"source" : "C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

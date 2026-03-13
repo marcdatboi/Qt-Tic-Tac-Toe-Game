@@ -1,0 +1,10 @@
+# ninja log v7
+6	536	7944548594295946	tictactoe_autogen/timestamp	a866a254b37e4547
+6	536	7944548594295946	tictactoe_autogen/mocs_compilation.cpp	a866a254b37e4547
+6	536	7944548594295946	C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/timestamp	a866a254b37e4547
+6	536	7944548594295946	C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/tictactoe_autogen/mocs_compilation.cpp	a866a254b37e4547
+548	2195	7944548594747872	CMakeFiles/tictactoe.dir/src/main.cpp.obj	6850858397142a51
+551	2204	7944548594777877	CMakeFiles/tictactoe.dir/src/MainWindow.cpp.obj	52bb3fdcb916ae16
+544	2205	7944548594717879	CMakeFiles/tictactoe.dir/tictactoe_autogen/mocs_compilation.cpp.obj	f53b42c2ac559a21
+554	2284	7944548594812995	CMakeFiles/tictactoe.dir/src/Board.cpp.obj	215c33f9d81b0d5f
+2284	2412	7944548612112005	tictactoe.exe	f0c1c1f84d1cc30f

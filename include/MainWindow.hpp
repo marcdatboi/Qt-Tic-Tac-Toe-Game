@@ -20,14 +20,14 @@ public:
     MainWindow(QWidget *parent = nullptr);
 
     // Member functions
-    QGridLayout* getLayout();
+    QVBoxLayout* getLayout();
     QWidget* getBaseWidget();
 
     ~MainWindow();
 
 private:
     QWidget *baseWidget;
-    QGridLayout *layout;
+    QVBoxLayout *layout;
 };
 
 #endif

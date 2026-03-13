@@ -1,0 +1,5 @@
+C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe.dir
+C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/edit_cache.dir
+C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/rebuild_cache.dir
+C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe_autogen_timestamp_deps.dir
+C:/DevFolder/C++/projects/qt_projects/Qt-Tic-Tac-Toe-Game/build/CMakeFiles/tictactoe_autogen.dir

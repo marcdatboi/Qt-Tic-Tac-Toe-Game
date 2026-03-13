@@ -15,12 +15,14 @@ set(CMAKE_AUTORCC ON)
 
 set(HEADERS
         include/MainWindow.hpp
+        include/Board.hpp
 
 )
 
 set(SOURCES
         src/main.cpp
         src/MainWindow.cpp
+        src/Board.cpp
 )
 
 # Find Qt
