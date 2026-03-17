@@ -28,13 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b06bac-581d-4810-beb8-c5c10067b723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/include/Board.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Board.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/MainWindow.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/MainWindow.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Board.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/Board.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainWindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainWindow.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +87,7 @@
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
@@ -128,7 +126,15 @@
       <workItem from="1772944650787" duration="481000" />
       <workItem from="1773352008450" duration="2054000" />
       <workItem from="1773355061029" duration="96000" />
-      <workItem from="1773355167206" duration="9931000" />
+      <workItem from="1773355167206" duration="11024000" />
+      <workItem from="1773368773348" duration="19000" />
+      <workItem from="1773368873081" duration="2552000" />
+      <workItem from="1773441663003" duration="2458000" />
+      <workItem from="1773446785006" duration="1497000" />
+      <workItem from="1773454931008" duration="8496000" />
+      <workItem from="1773469177825" duration="4023000" />
+      <workItem from="1773698713837" duration="700000" />
+      <workItem from="1773786295811" duration="3521000" />
     </task>
     <servers />
   </component>
